@@ -8,9 +8,6 @@ An advanced IoT system with integrated machine learning for real-time poultry he
 
 ![AI](https://img.shields.io/badge/AI--Powered-Disease%20Detection-red) ![IoT](https://img.shields.io/badge/ESP32-IoT%20Controller-orange) ![ML](https://img.shields.io/badge/Machine-Learning-blueviolet) ![Automation](https://img.shields.io/badge/Full-Automation-green)
 
-<br>
-<a href="https://github.com/yourusername"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHoxdmVtZ2Z0dGJ4cG5oM2N6eGZ4ZzZxY2N6eGZ2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RNveokB3nAqtm/giphy.gif" width="40%" align="right" style="border-radius:10px; animation: float 6s ease-in-out infinite;" alt="AI Analysis GIF">
-  </a>
 
 <h2 id=lang>Tech Stack</h2>
 
@@ -38,7 +35,6 @@ An advanced IoT system with integrated machine learning for real-time poultry he
 - ESP32/Arduino Uno
 - IoT Components (Sensors, Actuators)
 - Python 3.8+ (for AI model)
-- Basic Electronics Knowledge
 
 ## Project Structure
 
@@ -184,10 +180,3 @@ An advanced IoT system with integrated machine learning for real-time poultry he
 - **Multi-Disease Support**: Respiratory, digestive, stress-related conditions
 - **Continuous Learning**: Model improves with more data over time
 
-## License
-
-This project is licensed under the MIT License, see the [LICENSE.md](LICENSE.md) file for details.
-
-## Support
-
-If you have any questions or issues, please open an issue on GitHub or contact [mwalyangashadrack@example.com]
