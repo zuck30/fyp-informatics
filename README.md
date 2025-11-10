@@ -19,10 +19,6 @@ An advanced IoT system with integrated machine learning for real-time poultry he
 
 ![technologies](https://skillicons.dev/icons?i=arduino,raspberrypi&perline=10)
 
-**Sensors & Components**
-
-![technologies](https://skillicons.dev/icons?i=embeddedc,iot&perline=10)
-
 **Tools & Platforms**
 
 ![technologies](https://skillicons.dev/icons?i=github,vscode&perline=10)
