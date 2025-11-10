@@ -13,7 +13,7 @@ An advanced IoT system with integrated machine learning for real-time poultry he
 
 **AI & Machine Learning**
 
-![technologies](https://skillicons.dev/icons?i=python,tensorflow&perline=10)
+![technologies](https://skillicons.dev/icons?i=cpp,python,tensorflow&perline=10)
 
 **Microcontrollers & IoT**
 
