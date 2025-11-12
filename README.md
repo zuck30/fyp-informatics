@@ -31,3 +31,5 @@ An advanced IoT system with integrated machine learning for real-time poultry he
 - ESP32/Arduino Uno
 - IoT Components (Sensors, Actuators)
 - Python 3.8+ (for AI model)
+
+![Screenshot](/screenshots/Screenshot%202025-11-12%20at%2019.40.50.png)
