@@ -23,6 +23,8 @@ An advanced IoT system with integrated machine learning for real-time poultry he
 
 ![technologies](https://skillicons.dev/icons?i=github,vscode&perline=10)
 
+![Screenshot](/screenshots/Screenshot%202025-11-12%20at%2019.40.50.png)
+
 <h2> Quick Start</h2>
 
 ### Prerequisites
@@ -31,5 +33,3 @@ An advanced IoT system with integrated machine learning for real-time poultry he
 - ESP32/Arduino Uno
 - IoT Components (Sensors, Actuators)
 - Python 3.8+ (for AI model)
-
-![Screenshot](/screenshots/Screenshot%202025-11-12%20at%2019.40.50.png)
